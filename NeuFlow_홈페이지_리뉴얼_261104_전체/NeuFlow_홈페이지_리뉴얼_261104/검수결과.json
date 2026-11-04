@@ -1,0 +1,44 @@
+{
+  "structural": "PASS",
+  "errors": [],
+  "h1": 1,
+  "report_features": 4,
+  "faq": 3,
+  "source_pdf_pages": 5,
+  "browser_qa": {
+    "desktop": {
+      "viewport": "1280×900",
+      "horizontal_overflow": false
+    },
+    "mobile": {
+      "viewport": "390×844",
+      "horizontal_overflow": false
+    },
+    "small_mobile": {
+      "viewport": "320×800",
+      "horizontal_overflow": false
+    },
+    "interactions": [
+      "mobile menu open/close and anchor navigation",
+      "four report feature selectors",
+      "Enter key on report selector",
+      "FAQ mouse and Enter key",
+      "image modal open / Escape / close",
+      "official, email and telephone link targets"
+    ],
+    "fonts": "Paperlogy 4 Regular / 6 SemiBold loaded",
+    "images": "all loaded after lazy-loading"
+  },
+  "editorial_review": "PASS",
+  "visual_review": "PASS",
+  "new_feature_status": "신규 위험신호 해석 적용 준비 중 / 보고서는 구성 예시",
+  "source_assets": "첨부 PDF 4쪽의 분할 이미지 2개를 원래 순서로 결합. SIG 일부를 보고서 개념 화면에 사용. AI 반응성 비교도는 제품 판정으로 사용하지 않고 새 SVG 원리 설명도로 정돈.",
+  "header_logo_update": {
+    "original_unchanged": true,
+    "desktop_1280": "PASS",
+    "mobile_390": "PASS",
+    "mobile_320": "PASS",
+    "horizontal_overflow": false,
+    "logo_menu_overlap": false
+  }
+}

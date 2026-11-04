@@ -1,0 +1,68 @@
+{
+  "title": "NeuFlow 홈페이지 리뉴얼 시안",
+  "date": "2026-11-04",
+  "source_pdf": "웹페이지 리뉴얼 관련 NeuFlow_문안정리_261104.pdf",
+  "source_text_sha256": "dde450bff167204e294e215e22bcd29d2387d90b381572f74534da2f3c8cf20d",
+  "source_pages": 5,
+  "source_bytes_at_read": 164140,
+  "design": "남색 첫 화면 + 첨부 SIG 시각화 + 편집 가능한 HTML 보고서 구성 예시 + 의료진/환자 병렬 혜택",
+  "new_ai_raster_generation": false,
+  "assets": [
+    {
+      "file": "favicon.svg",
+      "bytes": 183,
+      "sha256": "2314ce7b177a1cddc3bb98e1152ef15eee4612cf98ce05c276be0998fc9c041c"
+    },
+    {
+      "file": "mediimg-logo.svg",
+      "bytes": 4061,
+      "sha256": "d57451484cb37600c81f10e9b374a24799c12523da7033fc8435b0cc3c97d1f5"
+    },
+    {
+      "file": "neuflow-logo.png",
+      "bytes": 527759,
+      "sha256": "88430ebd91a4c1ca75679f217ba374f2e1d501526fb15b5bf71bfaa1ffac0250"
+    },
+    {
+      "file": "neuflow-sig-source.png",
+      "bytes": 658832,
+      "sha256": "eef58dc755db6eb2b94747a15cb34bdf1a6ccb13e344e572aa39d5f19582a707"
+    },
+    {
+      "file": "Paperlogy-4Regular.woff2",
+      "bytes": 163628,
+      "sha256": "9edd76a2f1cebb7a511323a593d03bd8b442dcd60f478582f8919aba150521dd"
+    },
+    {
+      "file": "Paperlogy-6SemiBold.woff2",
+      "bytes": 164700,
+      "sha256": "92534e047cf2d0200d66a50ec8895388cd5088b162f4aad50e21ac86eeef83b5"
+    },
+    {
+      "file": "PAPERLOGY-LICENSE.txt",
+      "bytes": 4380,
+      "sha256": "603b2e7ef9effb9037b0b67f0530cacdc05e71a4e569032d7e4d98c2e6763135"
+    },
+    {
+      "file": "sig-detail.png",
+      "bytes": 384252,
+      "sha256": "e91c04670297e25aac183c3f132afad0e775b7bb7479f17c7ddbea4b06afc622"
+    },
+    {
+      "file": "sig-principle.svg",
+      "bytes": 2975,
+      "sha256": "70897fae68e64a62ec10dc3ff29b22c6e0f86e5ef8ffe3cbd2f9ec9b6cccc54f"
+    }
+  ],
+  "header_logo_update": {
+    "source": "소-2.png",
+    "source_dimensions": [
+      8192,
+      8192
+    ],
+    "asset": "dist/assets/neuflow-logo.png",
+    "sha256": "88430ebd91a4c1ca75679f217ba374f2e1d501526fb15b5bf71bfaa1ffac0250",
+    "original_bytes_unchanged": true,
+    "layout": "투명 여백을 CSS로 제외하여 원래 색상과 비율을 유지. PC 156px / 모바일 128px / 작은 모바일 112px."
+  }
+}
